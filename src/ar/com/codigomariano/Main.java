@@ -6,7 +6,6 @@ public class Main {
 		int precio = 100;
 		boolean vencido = false;
 		String nombre;
-		String dd;
 		
 		if(precio < 200) {
 			System.out.println("El producto es demasiado económico");
